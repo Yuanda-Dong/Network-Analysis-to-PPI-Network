@@ -8,3 +8,5 @@ CDC28 and nodes deemed by BCMB students as important (green nodes). The aim of p
 is to identify potential proteins along the path connecting CDC28 and green nodes. These proteins
 are generally less central than the green nodes and this makes them suitable targets for knock-down
 / knock out experiments.
+
+See `B-M_group I_Yuanda.pdf` for more details
